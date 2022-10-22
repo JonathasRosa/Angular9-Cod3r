@@ -1,19 +1,19 @@
 {
-    "products": [
-        {
-        "id": 1,
-        "name": "Caneta BIC Preta",
-        "price": 5.89
-        }, 
-        {
-        "id": 2,
-        "name": "Notebook SANSUNG",
-        "price": 4.889
-        }, 
-        {
-        "id": 3,
-        "name": "SmartPhone MOTOROLA G7 Play",
-        "price": 889.99
-        }
-    ]
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Preta",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Notebook SANSUNG",
+      "price": 4.889
+    },
+    {
+      "id": 3,
+      "name": "SmartPhone MOTOROLA G7 Play",
+      "price": 889.99
+    }
+  ]
 }
