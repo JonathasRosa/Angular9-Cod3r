@@ -29,6 +29,11 @@
       "name": "Notebook Framework",
       "price": "5000.89",
       "id": 6
+    },
+    {
+      "name": "Geladeira",
+      "price": "1984.45",
+      "id": 7
     }
   ]
 }
