@@ -34,6 +34,16 @@
       "name": "Geladeira",
       "price": "1984.45",
       "id": 7
+    },
+    {
+      "name": "Secador de Cabelo",
+      "price": "189.98",
+      "id": 8
+    },
+    {
+      "name": "Lapis Preto",
+      "price": "2.50",
+      "id": 9
     }
   ]
 }
