@@ -44,6 +44,11 @@
       "name": "Lapis Preto",
       "price": "2.50",
       "id": 9
+    },
+    {
+      "name": "Mouse pad",
+      "price": "47.89",
+      "id": 10
     }
   ]
 }

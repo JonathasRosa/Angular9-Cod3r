@@ -1,3 +1,4 @@
+import { ProductReadComponent } from './components/product/product-read/product-read.component';
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 
@@ -22,8 +23,7 @@ import { HttpClientModule } from '@angular/common/http';
 
 import { FormsModule } from '@angular/forms';
 import { MatFormFieldModule } from '@angular/material/form-field';
-import { MatInputModule } from '@angular/material/input';
-import { ProductReadComponent } from './components/product/product-read/product-read.component'
+import { MatInputModule } from '@angular/material/input'
 
 
 @NgModule({
@@ -35,7 +35,7 @@ import { ProductReadComponent } from './components/product/product-read/product-
     HomeComponent,
     ProductCrudComponent,
     ProductCreatComponent,
-    ProductReadComponent,
+    ProductReadComponent
   ],
   imports: [
     BrowserModule,
