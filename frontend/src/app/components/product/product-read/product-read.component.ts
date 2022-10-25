@@ -4,12 +4,13 @@ import { Product } from '../product.model';
 
 @Component({
   selector: 'app-product-read',
-  templateUrl: './product-read.component.html',
+  templateUrl:'./product-read.component.html',
   styleUrls: ['./product-read.component.css']
 })
 export class ProductReadComponent implements OnInit {
   
   products: Product[] | undefined
+  displayedColumns = ['id','name','price']
 
   constructor(private productService: ProductService) {}
 

@@ -13,8 +13,9 @@ import { NonNullableFormBuilder } from '@angular/forms';
 export class ProductCreatComponent implements OnInit {
 
   product: Product = {
-    name:'',
-    price: null
+    name: '',
+    price: null,
+    id: 0
   }
 
   constructor(private productService: ProductService, private router: Router) { }
